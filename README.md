@@ -23,4 +23,6 @@ Just a dev trying to make sense of the chaos, break the internet (on purpose), b
 
 ---
 
-> **Building. Breaking. Learning.**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2600&pause=900&color=00FF6A&center=true&vCenter=true&width=700&lines=Building .+ Breaking . + Learning . + Repeating" alt="Typing SVG" />
+</p>
