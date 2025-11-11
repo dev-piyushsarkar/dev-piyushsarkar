@@ -8,7 +8,7 @@
 
 </h1>
 
-## 🚀 About Me
+## ✍️ About Me
 
 <p align="center">
   Hello, i am  Piyush Sarkar, Web Developer/Coder 💻, Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
@@ -22,6 +22,25 @@
   <br />
 </p>
 
+## 🔰 Languages and Tools
+
+<p align="center">
+ <p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="44" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="44" /></a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" width="44" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width="44" /></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="44" /></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bun" width="44" /></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="44" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" width="44" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" width="44" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ps" width="44" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" width="44" /></a>
+</p>
+
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -30,21 +49,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-piyushsarkar&layout=compact&langs_count=6&theme=tokyonight" height="90" />
 </p>
 
-## 📬 Contact Me
+## 🤝 Contact Me
 
 <p align="center">
-   <a href="mailto:piyushsarkar.dev@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;" title="Email: piyushsarkar.dev@gmail.com" aria-label="Email me">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/piyush-sarkar-dev" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;" title="LinkedIn: piyush-sarkar-dev" aria-label="LinkedIn profile">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.com/users/1088456475132821685" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;" title="Discord: 1088456475132821685" aria-label="Discord profile">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
-  </a>
-  <a href="https://x.com/sarkar27977" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;" title="X (Twitter): @sarkar27977" aria-label="X (Twitter) profile">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="X (Twitter)" />
-  </a>
+  <p align="center">
+  <a href="mailto:piyushsarkar.dev@gmail.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail" width="44" /></a>
+  <a href="https://www.linkedin.com/in/piyush-sarkar-dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="44" /></a>
+  <a href="https://discord.com/users/1088456475132821685" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" width="44" /></a>
+  <a href="https://x.com/sarkar27977" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" width="44" /></a>
+</p>
+
 </p>
 
 ##
