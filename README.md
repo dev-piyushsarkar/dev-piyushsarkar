@@ -1,76 +1,62 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=dev-piyushsarkar
+">
+
 <h1 align="center">
-  Hey, I'm <span >Piyush<span>
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="wave" width="28" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Piyush!;&center=true&font=Righteous&size=35">
+  </a>
 </h1>
 
+## 🚀 About Me
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=5000&pause=500&color=31FF5E&center=true&vCenter=true&width=800&lines=Build+stuff+that+doesn't+crash+(mostly);Clean+code.+Fast+shipping.+Simple+UX" alt="Typing SVG"/>
+  Hello, i am  Piyush Sarkar, Web Developer/Coder 💻, Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
+  <br/>
+  <br />
+  🎓 Currently a College student.
+  <br />
+   Living in the world of React & Node.js 
+  <br />
+  <b>⚡ BUILDING | BREAKING | LEARNING | REPEATING | STILL STANDING 🔥
+  <br />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-piyushsarkar&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" height="110" />
+  <img src="https://streak-stats.demolab.com?user=dev-piyushsarkar&theme=tokyonight" height="110" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-piyushsarkar&layout=compact&langs_count=6&theme=tokyonight" height="90" />
+</p>
+
+---
+
+<p align="center">
+   <a href="mailto:piyushsarkar.dev@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;" title="Email: piyushsarkar.dev@gmail.com" aria-label="Email me">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/piyush-sarkar-dev" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;" title="LinkedIn: piyush-sarkar-dev" aria-label="LinkedIn profile">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com/users/1088456475132821685" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;" title="Discord: 1088456475132821685" aria-label="Discord profile">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>
+  <a href="https://x.com/sarkar27977" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;" title="X (Twitter): @sarkar27977" aria-label="X (Twitter) profile">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X (Twitter)" />
+  </a>
+</p>
+
+##
+
+<p align="center">
+🐞 It’s not a bug, it’s an undocumented feature ✨<br>
+📫 Email: piyushsarkar.dev@gmail.com
+
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dev-piyushsarkar&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
----
-
-## 🚀 About Me
-
-Interested in learning new technologies.  
-Just a dev trying to make sense of the chaos, break the internet (on purpose), build stuff that doesn’t crash (mostly), and occasionally pretend I know what I'm doing.
-
----
-
-## 🛠️ Skills
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com" title="Tailwind CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" title="Bootstrap" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev" title="React" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org" title="Next.js" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" title="Node.js" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com" title="Figma" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop" target="_blank">
-    <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop.svg" alt="Photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" title="Adobe XD" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD" width="40" height="40"/>
-  </a>
-  
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-piyushsarkar&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" height="100" />
-  <img src="https://streak-stats.demolab.com?user=dev-piyushsarkar&theme=tokyonight" height="100" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-piyushsarkar&layout=compact&langs_count=6&theme=tokyonight" height="80" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=5000&pause=300&color=31FF5E&center=true&vCenter=true&width=800&lines=Building.+Breaking.+Learning.+Repeating" alt="Typing SVG" />
-</p>
+<h4 align="center">
+  <a href="https://github.com/dev-piyushsarkar?tab=repositories" style="text-decoration: none; border: none;" title="Show Repositories">🔎 Show More 🔍</a> 
+</h4>
