@@ -5,6 +5,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Piyush!;&center=true&font=Righteous&size=35">
   </a>
+
 </h1>
 
 ## 🚀 About Me
@@ -29,7 +30,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-piyushsarkar&layout=compact&langs_count=6&theme=tokyonight" height="90" />
 </p>
 
----
+## 📬 Contact Me
 
 <p align="center">
    <a href="mailto:piyushsarkar.dev@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;" title="Email: piyushsarkar.dev@gmail.com" aria-label="Email me">
@@ -55,8 +56,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev-piyushsarkar&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=dev-piyushsarkar&label=Profile%20Views&color=FF00FF&labelColor=000000&style=plastic" />
+
 </p>
 <h4 align="center">
-  <a href="https://github.com/dev-piyushsarkar?tab=repositories" style="text-decoration: none; border: none;" title="Show Repositories">🔎 Show More 🔍</a> 
+  <a href="https://github.com/sanidhyy?tab=repositories"  style="text-decoration: none; border: none;" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
