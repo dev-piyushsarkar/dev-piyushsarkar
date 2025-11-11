@@ -1,28 +1,42 @@
+<!-- Hero typing header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2600&pause=900&color=00FF6A&center=true&vCenter=true&width=700&lines=I+break+things+on+the+internet;Build+stuff+that+doesn't+crash+(mostly);Sometimes+I+pretend+I+know+what+I'm+doing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2600&pause=900&color=00FF6A&center=true&vCenter=true&width=800&lines=I+break+things+on+the+internet;Build+stuff+that+doesn't+crash+(mostly);Sometimes+I+pretend+I+know+what+I'm+doing" alt="Typing SVG" />
 </p>
 
-<p align="left">
+<!-- Profile views -->
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=dev-piyushsarkar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-## About
+<!-- Stats (with rank ring like screenshot) -->
+<div align="center">
 
-Just a dev trying to make sense of the chaos, break the internet (on purpose), build stuff that doesn’t crash (mostly), and occasionally pretend I know what I’m doing.
+  <!-- GitHub Stats with rank ring -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=dev-piyushsarkar&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false&theme=tokyonight"
+    alt="GitHub Stats"
+    height="170"
+  />
 
-## My Progress
+  <!-- Streak -->
+  <img
+    src="https://streak-stats.demolab.com?user=dev-piyushsarkar&theme=tokyonight&hide_border=false"
+    alt="GitHub Streak"
+    height="170"
+  />
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-piyushsarkar&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff6a&text_color=c9d1d9" alt="Top Langs" />
-</p>
+  <!-- Most Used Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-piyushsarkar&layout=compact&langs_count=8&theme=tokyonight&hide_border=false"
+    alt="Top Languages"
+    height="170"
+  />
 
-<p align="left">
-  <img height="120" src="https://github-readme-stats.vercel.app/api?username=dev-piyushsarkar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff6a&text_color=c9d1d9&icon_color=00ff6a" alt="GitHub stats" />
-  <img height="120" src="https://streak-stats.demolab.com?user=dev-piyushsarkar&hide_border=true&background=0D1117&stroke=0D1117&ring=00FF6A&fire=00FF6A&currStreakLabel=FFFFFF&dates=C9D1D9" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
 
+<!-- Footer typing line (fixed URL — now works) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2600&pause=900&color=00FF6A&center=true&vCenter=true&width=700&lines=Building .+ Breaking . + Learning . + Repeating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2400&pause=800&color=00FF6A&center=true&vCenter=true&width=800&lines=Building.+Breaking.+Learning.+Repeating" alt="Typing SVG" />
 </p>
