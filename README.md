@@ -10,7 +10,7 @@
 
 ## About
 
-Just a dev trying to make sense of the chaos, break the internet (on purpose), build stuff that doesn’t crash (mostly), and occasionally pretend I know what I’m doing.
+Just a dev trying to make sense of the chaos, break the internet (on purpose), build stuff that doesn’t crash (mostly), and occasionally pretend I know what I'm doing.
 
 ## My Progress
 
