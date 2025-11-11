@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey, I'm <span >Piyush<span>
+  Hey, I'm <span>Piyush<span>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="wave" width="28" />
 </h1>
 
@@ -11,17 +11,15 @@
   <img src="https://komarev.com/ghpvc/?username=dev-piyushsarkar&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
+<br/>
 
 ## 🚀 About Me
-
 Interested in learning new technologies.  
 Just a dev trying to make sense of the chaos, break the internet (on purpose), build stuff that doesn’t crash (mostly), and occasionally pretend I know what I'm doing.
 
----
+<br/>
 
 ## 🛠️ Skills
-
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -56,20 +54,18 @@ Just a dev trying to make sense of the chaos, break the internet (on purpose), b
   <a href="https://www.adobe.com/products/xd.html" title="Adobe XD" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD" width="40" height="40"/>
   </a>
-  
 </p>
 
----
+<br/>
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dev-piyushsarkar&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" height="100" />
   <img src="https://streak-stats.demolab.com?user=dev-piyushsarkar&theme=tokyonight" height="100" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-piyushsarkar&layout=compact&langs_count=6&theme=tokyonight" height="80" />
 </p>
 
----
+<br/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=5000&pause=300&color=31FF5E&center=true&vCenter=true&width=800&lines=Building.+Breaking.+Learning.+Repeating" alt="Typing SVG" />
