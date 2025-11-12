@@ -74,5 +74,5 @@
 
 </p>
 <h4 align="center">
-  <a href="https://github.com/sanidhyy?tab=repositories"  style="text-decoration: none; border: none;" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/dev-piyushsarkar?tab=repositories"  style="text-decoration: none; border: none;" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
